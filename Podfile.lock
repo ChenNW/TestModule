@@ -1,0 +1,22 @@
+PODS:
+  - logingModule (0.1.0):
+    - MYNetWorking
+  - MYNetWorking (0.1.0)
+
+DEPENDENCIES:
+  - logingModule (from `lib/logingModule`)
+  - MYNetWorking (from `lib/MYNetWorking`)
+
+EXTERNAL SOURCES:
+  logingModule:
+    :path: lib/logingModule
+  MYNetWorking:
+    :path: lib/MYNetWorking
+
+SPEC CHECKSUMS:
+  logingModule: cbe0c0e8fcb3e8853785d4e25063e4e4be913417
+  MYNetWorking: d743da6f7f1c379605bf872d15fbdbf9c429153b
+
+PODFILE CHECKSUM: 45e52ba1cc0d4aa5b78850be43559ec50b8f4143
+
+COCOAPODS: 1.8.4

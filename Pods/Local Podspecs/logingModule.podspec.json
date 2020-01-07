@@ -1,0 +1,27 @@
+{
+  "name": "logingModule",
+  "version": "0.1.0",
+  "summary": "A short description of logingModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ChenNW/logingModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ChenNW": "chenningwei1030@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ChenNW/logingModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "logingModule/Classes/**/*",
+  "dependencies": {
+    "MYNetWorking": [
+
+    ]
+  }
+}

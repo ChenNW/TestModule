@@ -1,0 +1,6 @@
+framework module logingModule {
+  umbrella header "logingModule-umbrella.h"
+
+  export *
+  module * { export * }
+}
